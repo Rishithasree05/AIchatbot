@@ -1,0 +1,49 @@
+{
+  "organization": {
+    "name": "VaultofCodes",
+    "description": "Edtech platform providing technology training, courses, projects, and certified internship programs."
+  },
+
+  "offerings": [
+    "Study material and notes",
+    "Assignments and projects",
+    "Recorded lectures",
+    "24/7 chat support",
+    "Live training",
+    "Internship certificate",
+    "Training certificate",
+    "Group projects"
+  ],
+
+  "internship": {
+    "duration": "1–3 months for the internship programs described on the official orientation page",
+    "certificate": "Participants who enroll and complete the internship program receive a verified internship certificate",
+    "prior_experience": "The official orientation information states that prior coding experience is not required for the programs described there",
+    "application": "The knowledge base does not contain the verified step-by-step application procedure. The chatbot should direct users to the official internships page or support team rather than inventing application steps."
+  },
+
+  "support": {
+    "phone": "01169655581",
+    "email": "vaultofcodes@gmail.com",
+    "technical_whatsapp_phone": "9455345519"
+  },
+
+  "website_pages": {
+    "home": "/",
+    "about": "/about-us",
+    "courses": "/courses",
+    "internships": "/internships"
+  },
+
+  "limitations": [
+    "Individual course fees are not stored in this knowledge base",
+    "Individual internship fees are not stored in this knowledge base",
+    "Individual course durations are not stored in this knowledge base",
+    "Student account information is not available to the chatbot",
+    "Payment or refund status cannot be checked by the chatbot",
+    "Specific offer-letter status cannot be checked by the chatbot",
+    "Certificate correction status cannot be checked by the chatbot",
+    "A dedicated certificate-verification page URL has not been verified",
+    "A verified step-by-step internship application procedure is not stored in this knowledge base"
+  ]
+}
